@@ -138,8 +138,8 @@ This suggests that bicycles ridden longer may be traveling further away from the
 ---
 
 ## Technologies Used ##
+* Tableau 
 * Python
-* Tableau
 * CSV file
 * Microsoft Word
 
