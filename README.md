@@ -13,46 +13,46 @@ This project involves aggregating data found in the Citi Bike Trip History Logs 
 
 ## Dashboard Visualizations Created ##
 ### Top 10 Starting Locations
-* *Starting Location Comparitive Popularity Map
-* *Top 10 Start Station Map
-* *Number of Trips Started at Each Top 10 Station
-* *Top 10 Start Station Gender Demographics
-* *Top 10 Start Station Overall Gender Statistics
+* *Starting Location Comparitive Popularity Map*
+* *Top 10 Start Station Map*
+* *Number of Trips Started at Each Top 10 Station*
+* *Top 10 Start Station Gender Demographics*
+* *Top 10 Start Station Overall Gender Statistics*
 
 ### Top 10 Ending Locations
-* *Ending Location Comparitive Popularity Map
-* *Top 10 End Station Map
-* *Number of Trips Ended at Each Top 10 Station
-* *Top 10 End Station Gender Demographics
-* *Top 10 End Station Overall Gender Statistics
+* *Ending Location Comparitive Popularity Map*
+* *Top 10 End Station Map*
+* *Number of Trips Ended at Each Top 10 Station*
+* *Top 10 End Station Gender Demographics*
+* *Top 10 End Station Overall Gender Statistics*
 
 ### Male versus Female Most Used Starting Locations
-* *Male Most Used Start Station List
-* *Male Most Used Start Station Map
-* *Female Most Used Start Station List
-* *Female Most Used Start Station Map
+* *Male Most Used Start Station List*
+* *Male Most Used Start Station Map*
+* *Female Most Used Start Station List*
+* *Female Most Used Start Station Map*
 
 ### Male versus Female Longest Trip Start Locations
-* *Male Longest Trip Start Station List
-* *Male Top 10 Longest Trip Start Station Map
-* *Female Longest Trip Start Station List
-* *Female Top 10 Longest Trip Start Station Map
+* *Male Longest Trip Start Station List*
+* *Male Top 10 Longest Trip Start Station Map*
+* *Female Longest Trip Start Station List*
+* *Female Top 10 Longest Trip Start Station Map*
 
 ### User Gender Statistics
-* *User Type Count by Gender
-* *Overall Gender Count, Avg Age, & Avg Trip Time
-* *Gender Count per Day of Week
-* *Avg Trip Time by Hour of Day
-* *Number of Trips Started by Hour of Day
+* *User Type Count by Gender*
+* *Overall Gender Count, Avg Age, & Avg Trip Time*
+* *Gender Count per Day of Week*
+* *Avg Trip Time by Hour of Day*
+* *Number of Trips Started by Hour of Day*
 
 ### User Age Statistics
-* *Avg & Median Age
-* *Age Distribution
-* *Avg Trip Time by Age
+* *Avg & Median Age*
+* *Age Distribution*
+* *Avg Trip Time by Age*
 
 ### Most Used Bicycle Statistics
-* *Top 10 Bicycles by Usage (Total Time)
-* *Top 10 Bicycles by Frequency (Count)
+* *Top 10 Bicycles by Usage (Total Time)*
+* *Top 10 Bicycles by Frequency (Count)*
 
 ---
 
