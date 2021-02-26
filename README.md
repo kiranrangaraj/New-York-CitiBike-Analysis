@@ -146,4 +146,5 @@ This suggests that bicycles ridden longer may be traveling further away from the
 ---
 
 ## Author ##
-Kiran Rangaraj - Data Analytics/Visualization - Vanderbilt University - 2021
+Kiran Rangaraj - 2021
+* LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
