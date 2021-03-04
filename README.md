@@ -1,6 +1,10 @@
 # New York Citi Bike Sharing Analysis
 
 <p align="center">
+  <img src="Images/CitiBikeLogo.png" width="400">
+</p>
+
+<p align="center">
   <a href="https://public.tableau.com/profile/kiran.rangaraj#!/vizhome/Citi_Bike_Analytics_16135030171860/STORYCitiBikeAnalysis">Visit Tableau Page</a>
 </p>
 
