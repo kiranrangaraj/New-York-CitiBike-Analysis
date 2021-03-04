@@ -1,6 +1,8 @@
 # New York Citi Bike Sharing Analysis
-## Tableau Viz Link: 
-##### https://public.tableau.com/profile/kiran.rangaraj#!/vizhome/Citi_Bike_Analytics_16135030171860/STORYCitiBikeAnalysis
+
+<p align="center">
+  <a href="https://public.tableau.com/profile/kiran.rangaraj#!/vizhome/Citi_Bike_Analytics_16135030171860/STORYCitiBikeAnalysis">Visit Tableau Page</a>
+</p>
 
 ---
 
