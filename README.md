@@ -132,8 +132,8 @@ This suggests that bicycles ridden longer may be traveling further away from the
 ---
 
 ## Data Sources ##
-* https://www.citibikenyc.com/system-data
-* https://github.com/kiranrangaraj/tableau-CitiBike-analysis/tree/main/Resources
+* [Citi Bike System Data Webpage](https://www.citibikenyc.com/system-data)
+* [November 2020 Data](https://github.com/kiranrangaraj/tableau-CitiBike-analysis/tree/main/Resources)
 
 ---
 
